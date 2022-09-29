@@ -6,14 +6,17 @@ namespace example
     {
         static void Main(string[] args)
         {
-            int money;
-            string name;
+            float[] weights = { 41.2f, 42.5f, 44.9f, 43.2f, 45.1f, 43.2f, 42.7f};
 
-            money = 5000;
-            name = "北村";
+            float sum = 0.0f;
 
-            Console.WriteLine(money);
-            Console.WriteLine(name);
+            for(int i = 0; i < weights.Length; i++)
+            {
+                sum += weights[i];
+            }
+            float average = sum/weights.Length;
+            Console.WriteLine(average);
         }
+
     }
 }
