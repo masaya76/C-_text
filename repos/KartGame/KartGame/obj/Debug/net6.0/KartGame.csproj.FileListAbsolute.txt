@@ -1,0 +1,15 @@
+C:\Users\matya\source\repos\KartGame\KartGame\obj\Debug\net6.0\KartGame.csproj.AssemblyReference.cache
+C:\Users\matya\source\repos\KartGame\KartGame\obj\Debug\net6.0\KartGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matya\source\repos\KartGame\KartGame\obj\Debug\net6.0\KartGame.AssemblyInfoInputs.cache
+C:\Users\matya\source\repos\KartGame\KartGame\obj\Debug\net6.0\KartGame.AssemblyInfo.cs
+C:\Users\matya\source\repos\KartGame\KartGame\obj\Debug\net6.0\KartGame.csproj.CoreCompileInputs.cache
+C:\Users\matya\source\repos\KartGame\KartGame\bin\Debug\net6.0\KartGame.exe
+C:\Users\matya\source\repos\KartGame\KartGame\bin\Debug\net6.0\KartGame.deps.json
+C:\Users\matya\source\repos\KartGame\KartGame\bin\Debug\net6.0\KartGame.runtimeconfig.json
+C:\Users\matya\source\repos\KartGame\KartGame\bin\Debug\net6.0\KartGame.dll
+C:\Users\matya\source\repos\KartGame\KartGame\bin\Debug\net6.0\KartGame.pdb
+C:\Users\matya\source\repos\KartGame\KartGame\obj\Debug\net6.0\KartGame.dll
+C:\Users\matya\source\repos\KartGame\KartGame\obj\Debug\net6.0\refint\KartGame.dll
+C:\Users\matya\source\repos\KartGame\KartGame\obj\Debug\net6.0\KartGame.pdb
+C:\Users\matya\source\repos\KartGame\KartGame\obj\Debug\net6.0\KartGame.genruntimeconfig.cache
+C:\Users\matya\source\repos\KartGame\KartGame\obj\Debug\net6.0\ref\KartGame.dll
